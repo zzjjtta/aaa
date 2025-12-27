@@ -1,0 +1,16 @@
+日期：{{NowDate.DATA}}
+
+☁️{{NowRegion_1.DATA}}的天气：{{NowWeather_1.DATA}}
+
+🌡️{{NowRegion_1.DATA}}的气温：{{NowTemp_1.DATA}} {{WindDir_1.DATA}}
+
+温度提示：{{TempNew_1.DATA}}
+
+💞今天是我们恋爱的第{{LoveDay.DATA}}天💞
+
+🎂：{{birthday1.DATA}}
+🎂：{{birthday2.DATA}}
+
+每日金句英文：{{NoteEN_0.DATA}}{{NoteEN_1.DATA}}{{NoteEN_2.DATA}}
+
+每日金句中文：{{NoteCH_0.DATA}}{{NoteCH_1.DATA}}{{NoteCH_2.DATA}}
